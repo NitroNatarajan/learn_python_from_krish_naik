@@ -97,17 +97,38 @@
       8. Dictionary comprehension 
       9. Practical example and use cases
    11. Tuples in Python 
-       1. Introduction 
-       2. Creating tuples 
-       3. Accessing tuples 
-       4. Tuple operations 
-       5. Immutable nature of tuples 
-       6. Tuple methods 
-       7. Packing and unpacking tuples 
-       8. Nested Tuples 
-       9. Practical Examples
+       1.  Introduction 
+       2.  Creating tuples 
+       3.  Accessing tuples 
+       4.  Tuple operations 
+       5.  Immutable nature of tuples 
+       6.  Tuple methods 
+       7.  Packing and unpacking tuples 
+       8.  Nested Tuples 
+       9.  Practical Examples
     12. Real-world use case of list 
         1.  Manage a to-do list 
         2.  Organizing the student grades 
-        3.   
+        3.  Student score management 
+        4.  Manage an inventory
+        5.  Analyzing the user feedback 
+    13. Function
+        1. Introduction to the function 
+        2. Function Definition
+        3. Function calling 
+        4. Default parameter 
+        5. Variable length arguments
+           1. Positional argument 
+           2. keyword argument
+        6. Return statement
+        7. Function practice ex:
+             1. Temperature conversion
+             2.  Password strength checker
+             3.  total cost of an item in the shopping cart
+             4.  Check if a string is palindrome or not 
+             5.  Calculate the factorial of a number using the recursion.
+    14.  Lambda Function
+         1. Purpose of lambda function
+         2. Syntax and when to use?
+         3. 
 
