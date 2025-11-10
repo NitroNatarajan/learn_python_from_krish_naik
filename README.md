@@ -130,5 +130,5 @@
     14.  Lambda Function
          1. Purpose of lambda function
          2. Syntax and when to use?
-         3. 
-
+    15. Map and filter with lambda function 
+    16. Exercises 
